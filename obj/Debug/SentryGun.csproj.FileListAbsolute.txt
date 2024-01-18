@@ -1,0 +1,127 @@
+D:\SentryGun\bin\Debug\SentryGun.exe.config
+D:\SentryGun\bin\Debug\SentryGun.exe
+D:\SentryGun\bin\Debug\SentryGun.pdb
+D:\SentryGun\obj\Debug\SentryGun.csproj.AssemblyReference.cache
+D:\SentryGun\obj\Debug\SentryGun.Form1.resources
+D:\SentryGun\obj\Debug\SentryGun.Properties.Resources.resources
+D:\SentryGun\obj\Debug\SentryGun.csproj.GenerateResource.cache
+D:\SentryGun\obj\Debug\SentryGun.csproj.CoreCompileInputs.cache
+D:\SentryGun\obj\Debug\SentryGun.exe
+D:\SentryGun\obj\Debug\SentryGun.pdb
+D:\SentryGun\bin\Debug\Microsoft.Win32.Registry.dll
+D:\SentryGun\bin\Debug\NAudio.Asio.dll
+D:\SentryGun\bin\Debug\NAudio.Core.dll
+D:\SentryGun\bin\Debug\NAudio.dll
+D:\SentryGun\bin\Debug\NAudio.Midi.dll
+D:\SentryGun\bin\Debug\NAudio.Wasapi.dll
+D:\SentryGun\bin\Debug\NAudio.WinForms.dll
+D:\SentryGun\bin\Debug\NAudio.WinMM.dll
+D:\SentryGun\bin\Debug\System.Security.AccessControl.dll
+D:\SentryGun\bin\Debug\System.Security.Principal.Windows.dll
+D:\SentryGun\bin\Debug\Microsoft.Win32.Registry.xml
+D:\SentryGun\bin\Debug\NAudio.xml
+D:\SentryGun\bin\Debug\NAudio.Asio.xml
+D:\SentryGun\bin\Debug\NAudio.Core.xml
+D:\SentryGun\bin\Debug\NAudio.Midi.xml
+D:\SentryGun\bin\Debug\NAudio.Wasapi.xml
+D:\SentryGun\bin\Debug\NAudio.WinForms.xml
+D:\SentryGun\bin\Debug\NAudio.WinMM.xml
+D:\SentryGun\bin\Debug\System.Security.AccessControl.xml
+D:\SentryGun\bin\Debug\System.Security.Principal.Windows.xml
+D:\SentryGun\obj\Debug\SentryGun.csproj.CopyComplete
+E:\SentryGun\bin\Debug\SentryGun.exe.config
+E:\SentryGun\bin\Debug\SentryGun.exe
+E:\SentryGun\bin\Debug\SentryGun.pdb
+E:\SentryGun\bin\Debug\Microsoft.Win32.Registry.dll
+E:\SentryGun\bin\Debug\NAudio.Asio.dll
+E:\SentryGun\bin\Debug\NAudio.Core.dll
+E:\SentryGun\bin\Debug\NAudio.dll
+E:\SentryGun\bin\Debug\NAudio.Midi.dll
+E:\SentryGun\bin\Debug\NAudio.Wasapi.dll
+E:\SentryGun\bin\Debug\NAudio.WinForms.dll
+E:\SentryGun\bin\Debug\NAudio.WinMM.dll
+E:\SentryGun\bin\Debug\System.Security.AccessControl.dll
+E:\SentryGun\bin\Debug\System.Security.Principal.Windows.dll
+E:\SentryGun\bin\Debug\Microsoft.Win32.Registry.xml
+E:\SentryGun\bin\Debug\NAudio.xml
+E:\SentryGun\bin\Debug\NAudio.Asio.xml
+E:\SentryGun\bin\Debug\NAudio.Core.xml
+E:\SentryGun\bin\Debug\NAudio.Midi.xml
+E:\SentryGun\bin\Debug\NAudio.Wasapi.xml
+E:\SentryGun\bin\Debug\NAudio.WinForms.xml
+E:\SentryGun\bin\Debug\NAudio.WinMM.xml
+E:\SentryGun\bin\Debug\System.Security.AccessControl.xml
+E:\SentryGun\bin\Debug\System.Security.Principal.Windows.xml
+E:\SentryGun\obj\Debug\SentryGun.csproj.AssemblyReference.cache
+E:\SentryGun\obj\Debug\SentryGun.csproj.SuggestedBindingRedirects.cache
+E:\SentryGun\obj\Debug\SentryGun.Form1.resources
+E:\SentryGun\obj\Debug\SentryGun.Properties.Resources.resources
+E:\SentryGun\obj\Debug\SentryGun.csproj.GenerateResource.cache
+E:\SentryGun\obj\Debug\SentryGun.csproj.CoreCompileInputs.cache
+E:\SentryGun\obj\Debug\SentryGun.csproj.CopyComplete
+E:\SentryGun\obj\Debug\SentryGun.exe
+E:\SentryGun\obj\Debug\SentryGun.pdb
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.Form1.resources
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.GunForm1.resources
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.Properties.Resources.resources
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.exe
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.pdb
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\SentryGun.exe.config
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\SentryGun.exe
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\SentryGun.pdb
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Asio.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Core.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Midi.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Wasapi.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.WinForms.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.WinMM.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\System.Security.AccessControl.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Asio.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Core.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Midi.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.Wasapi.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.WinForms.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\NAudio.WinMM.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\System.Security.AccessControl.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\black\OneDrive\Desktop\SentryGun\obj\Debug\SentryGun.csproj.CopyComplete
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\SentryGun.exe.config
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\SentryGun.exe
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\SentryGun.pdb
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Asio.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Core.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Midi.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Wasapi.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.WinForms.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.WinMM.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Asio.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Core.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Midi.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.Wasapi.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.WinForms.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\NAudio.WinMM.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.Form1.resources
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.GunForm1.resources
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.Properties.Resources.resources
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.csproj.CopyComplete
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.exe
+C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.pdb
