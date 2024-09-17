@@ -22,7 +22,7 @@ namespace SentryGun
             InitializeComponent();
         }
 
-        private void Form1_Paint(object sender, PaintEventArgs e)
+        private void Form1_Paint(object sender, PaintEventArgs e)// paint the UI
         {
             SolidBrush orangeBrush = new SolidBrush(Color.FromArgb(255,128,0));
             Pen orangePen = new Pen (System.Drawing.Color.FromArgb(255,128,0),4);            

@@ -125,3 +125,35 @@ C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.csproj.CoreCo
 C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.csproj.CopyComplete
 C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.exe
 C:\Users\black\OneDrive\Desktop\SentryGun V1.2\obj\Debug\SentryGun.pdb
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\SentryGun.exe.config
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\SentryGun.exe
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\SentryGun.pdb
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Asio.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Core.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Midi.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Wasapi.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.WinForms.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.WinMM.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\System.Security.AccessControl.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Asio.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Core.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Midi.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.Wasapi.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.WinForms.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\NAudio.WinMM.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\System.Security.AccessControl.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.csproj.AssemblyReference.cache
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.Form1.resources
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.GunForm1.resources
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.Properties.Resources.resources
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.csproj.GenerateResource.cache
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.csproj.CoreCompileInputs.cache
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.csproj.Up2Date
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.exe
+C:\Users\771666\OneDrive - wqeic.ac.uk\Projects\SentryGun-V2.0\obj\Debug\SentryGun.pdb
